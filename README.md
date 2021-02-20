@@ -1,0 +1,1 @@
+# GARCH-model-for-stocks
